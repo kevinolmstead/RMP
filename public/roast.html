@@ -1,0 +1,36 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+  <script src="javascripts/app.js"></script>
+  <title>Roast My Professor</title>
+</head>
+
+<body ng-app="list" ng-controller="MainCtrl">
+  <div id="all" class="bg">
+    <p class="logo"><img src="stylesheets/rmp.PNG" height="200" width="200" align="right"></p>
+    <p class="logo"><img src="stylesheets/rmp.PNG" height="200" width="200" align="left"></p>
+    <br>
+    <h2>Enter professor, and roast them!</h2>
+    <div id="inputArea">
+    <form ng-submit="addPost()">
+      Professor: <input type="text" id="professorField" value="" ng-model="professorName">
+      <span style="display:inline-block; width: 30px;"></span>
+      Roast: <input type="text" id="roastText" value="" ng-model="postEntry"><br>
+      <p class="ex"><span style="display:inline-block; width: 50px;"></span>
+      ex: Professor Doofis
+      <span style="display:inline-block; width: 170px;"></span>
+      ex: He is a doofis.</p>
+      <input id="roastButton" type="submit" value="Roast" ng-click="addpost()">
+    </form>
+    </div>
+    <div id="roasts" ng-repeat="post in posts">
+      <div id="singleRoast">
+        <p class="profName"><b>Prof:</b> {{post.name}}</p>
+        <p class="roastOut"><b>Roast:</b> {{post.text}}</p>
+	<br>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
