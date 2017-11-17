@@ -5,7 +5,7 @@ $(document).ready(function(){
     everything = "<div class='indivRoasts'>";
     for(var roast in data){
       com = data[roast];
-      everything += "<p><span class='labels'>Name: </span>" + com.Professor + "<br><span class='labels'>Roast: </span>" + com.Roast + "</p></div>";
+      everything += "<p><span class='labels'>What: </span>" + com.Professor + "<br><span class='labels'>Why: </span>" + com.Roast + "</p></div>";
     }
     everything += "</div>";
     $("#roasts").html(everything);
@@ -28,7 +28,7 @@ $(document).ready(function(){
       everything = "<div class='indivRoasts'>";
       for(var roast in data) {
         com = data[roast];
-        everything += "<p><span class='labels'>Name: </span>" + com.Professor + "<br><span class='labels'>Roast: </span>" + com.Roast + "</p></div>";
+        everything += "<p><span class='labels'>What: </span>" + com.Professor + "<br><span class='labels'>Why: </span>" + com.Roast + "</p></div>";
       }
       everything += "</div>";
       $("#roasts").html(everything);

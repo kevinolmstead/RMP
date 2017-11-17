@@ -21,10 +21,10 @@ height: 100%;
 }
 
 .bg{
-background-image: url("fire.jpg"),
+background-image: url("https://wallpapercave.com/wp/NwLtzXJ.jpg"),
                   url("https://vignette.wikia.nocookie.net/joke-battles/images/5/5a/Black.jpg/revision/latest?cb=20161223050425");
 min-height: 100%;
-background-position: top, center;
+background-position: center, center;
 background-repeat: no-repeat, repeat;
 background-size: 100%, cover;
 }
