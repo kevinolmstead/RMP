@@ -76,3 +76,484 @@ nohup: ignoring input
 [0mGET /stylesheets/rmp.PNG [36m304 [0m0.309 ms - -[0m
 [0mGET /stylesheets/fire.jpg [36m304 [0m1.186 ms - -[0m
 [0mGET /favicon.ico [33m404 [0m6.776 ms - 1994[0m
+[0mGET / [36m304 [0m0.946 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.306 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.305 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.191 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.763 ms - -[0m
+[0mGET / [32m200 [0m0.617 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.462 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m1.669 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.427 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.451 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m10.631 ms - 1994[0m
+[0mGET / [36m304 [0m0.427 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.292 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.286 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.280 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.287 ms - -[0m
+[0mGET / [36m304 [0m0.440 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.302 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.192 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.279 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.295 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m19.874 ms - 1994[0m
+[0mGET / [36m304 [0m0.452 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.302 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.294 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.396 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.505 ms - 258097[0m
+[0mGET / [32m200 [0m4.210 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.521 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.773 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m2.716 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m1.777 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m5.912 ms - 1994[0m
+[0mGET / [32m200 [0m1.975 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.452 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.316 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.450 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.496 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m8.400 ms - 1994[0m
+[0mGET / [32m200 [0m0.566 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.487 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.303 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.476 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.445 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.904 ms - 1994[0m
+[0mGET / [32m200 [0m1.515 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.459 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.359 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.442 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.433 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m8.193 ms - 1994[0m
+[0mGET / [36m304 [0m0.483 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.313 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.601 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m3.700 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m2.302 ms - -[0m
+[0mGET / [36m304 [0m0.747 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.484 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.518 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.304 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.269 ms - -[0m
+[0mGET / [32m200 [0m1.133 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.448 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.293 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.453 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.455 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m12.268 ms - 1994[0m
+[0mGET / [32m200 [0m1.138 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.131 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.401 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.453 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.482 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m7.715 ms - 1994[0m
+[0mGET / [36m304 [0m0.444 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.297 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.803 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.241 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.279 ms - -[0m
+[0mGET / [36m304 [0m0.400 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.333 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.170 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.294 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.303 ms - -[0m
+[0mGET / [32m200 [0m0.564 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.224 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.828 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.513 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.433 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m8.334 ms - 1994[0m
+[0mGET / [32m200 [0m0.917 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.495 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.412 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.437 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.494 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m6.686 ms - 1994[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.323 ms - -[0m
+[0mGET / [36m304 [0m0.418 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.377 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.426 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.256 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.229 ms - -[0m
+[0mGET / [32m200 [0m0.559 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.468 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.326 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m1.729 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.446 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.860 ms - 1994[0m
+[0mGET / [32m200 [0m0.558 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.429 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.373 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.445 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.515 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m5.024 ms - 1994[0m
+[0mGET / [32m200 [0m0.559 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.448 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.405 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.416 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.456 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m11.767 ms - 1994[0m
+[0mGET / [32m200 [0m3.776 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.452 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.299 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.441 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.445 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m12.809 ms - 1994[0m
+[0mGET / [32m200 [0m0.573 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.451 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.412 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.415 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.434 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m6.859 ms - 1994[0m
+[0mGET / [32m200 [0m4.443 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.434 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.275 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.438 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.448 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.748 ms - 1994[0m
+[0mGET / [32m200 [0m0.535 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.480 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.410 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.467 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.418 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m7.126 ms - 1994[0m
+[0mGET / [32m200 [0m0.987 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.442 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.308 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.454 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.442 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.924 ms - 1994[0m
+[0mGET / [32m200 [0m0.563 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.438 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.378 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.448 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.442 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.602 ms - 1994[0m
+[0mGET / [32m200 [0m0.587 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.399 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.384 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.444 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.443 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m7.266 ms - 1994[0m
+[0mGET / [32m200 [0m0.563 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.422 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.376 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.406 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.464 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.405 ms - 1994[0m
+[0mGET / [32m200 [0m0.530 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.571 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.311 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.498 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.423 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.485 ms - 1994[0m
+[0mGET / [32m200 [0m0.581 ms - 1435[0m
+[0mGET / [32m200 [0m0.603 ms - 1435[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.518 ms - 489[0m
+[0mGET /javascripts/app.js [32m200 [0m0.352 ms - 273[0m
+[0mGET /stylesheets/rmp.PNG [32m200 [0m0.455 ms - 34689[0m
+[0mGET /stylesheets/fire.jpg [32m200 [0m0.457 ms - 258097[0m
+[0mGET /favicon.ico [33m404 [0m4.507 ms - 1994[0m
+[0mGET / [32m200 [0m1.261 ms - 1435[0m
+[0mGET / [36m304 [0m0.490 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.298 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.537 ms - -[0m
+[0mGET /stylesheets/rmp.PNG [36m304 [0m0.277 ms - -[0m
+[0mGET /stylesheets/fire.jpg [36m304 [0m0.268 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m5.894 ms - 1994[0m
+[0mGET / [32m200 [0m2.438 ms - 1435[0m
+[0mGET /javascripts/app.js [32m200 [0m2.520 ms - 273[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.815 ms - 489[0m
+[0mGET / [36m304 [0m0.454 ms - -[0m
+[0mGET /stylesheets/style.css [31m500 [0m2.783 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /javascripts/app.js [31m500 [0m0.687 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /stylesheets/rmp.PNG [31m500 [0m0.771 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /favicon.ico [31m500 [0m1.508 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET / [32m200 [0m0.631 ms - 1435[0m
+[0mGET /stylesheets/style.css [31m500 [0m1.575 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /javascripts/app.js [31m500 [0m0.537 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /stylesheets/rmp.PNG [31m500 [0m0.751 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /javascripts/app.js [31m500 [0m0.681 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /stylesheets/rmp.PNG [31m500 [0m0.709 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /favicon.ico [31m500 [0m0.711 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET / [36m304 [0m0.466 ms - -[0m
+[0mGET /stylesheets/style.css [31m500 [0m0.635 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /javascripts/app.js [31m500 [0m0.565 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /stylesheets/rmp.PNG [31m500 [0m0.688 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /javascripts/app.js [31m500 [0m1.273 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /stylesheets/rmp.PNG [31m500 [0m0.736 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+[0mGET /favicon.ico [31m500 [0m1.870 ms - 2138[0m
+Error: Failed to lookup view "error" in views directory "/home/bitnami/roastMyProfessor/roastMyProfessor/views"
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:579:17)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:53:7
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
+    at IncomingMessage.next (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:271:10)
+    at done (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:956:25)
+    at EventEmitter.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/application.js:581:14)
+    at ServerResponse.render (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/response.js:961:7)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/app.js:42:9
+    at Layer.handle_error (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:310:13)
+    at /home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:280:7
+    at Function.process_params (/home/bitnami/roastMyProfessor/roastMyProfessor/node_modules/express/lib/router/index.js:330:12)
